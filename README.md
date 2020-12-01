@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hello, I am Doug.
 
 <!--
 **dougschallmoser/dougschallmoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+I enjoy problem-solving and have a knack for finding the tiniest bugs that drive many crazy.
+
+The best way to find out all about me is [personal website](https://www.dougschallmoser.com/)
+
+Reach me at [LinkedIn](https://www.linkedin.com/in/doug-schallmoser/), [Email](mailto:dougschallmoser@gmail.com), [Blog](https://dougschallmoser.medium.com/), [Instagram](https://www.instagram.com/illbehiking/)
+
+Fun fact: 
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
