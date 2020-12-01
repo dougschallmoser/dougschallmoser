@@ -7,5 +7,3 @@ I am currently working on adding additional features to [Trailblaze](https://git
 The best way to find out all about me is my [personal website](https://www.dougschallmoser.com/).
 
 I can also be reached through [LinkedIn](https://www.linkedin.com/in/doug-schallmoser/), [Email](mailto:dougschallmoser@gmail.com), [Blog](https://dougschallmoser.medium.com/), and [Instagram](https://www.instagram.com/illbehiking/).
-
-![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `#f03c15`
