@@ -8,4 +8,4 @@ The best way to find out all about me is my [personal website](https://www.dougs
 
 I can also be reached through [LinkedIn](https://www.linkedin.com/in/doug-schallmoser/), [Email](mailto:dougschallmoser@gmail.com), [Blog](https://dougschallmoser.medium.com/), and [Instagram](https://www.instagram.com/illbehiking/).
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `#f03c15`
