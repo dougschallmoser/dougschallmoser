@@ -1,10 +1,5 @@
 ### Hello, I am Doug.
 
-<!--
-**dougschallmoser/dougschallmoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 I enjoy problem-solving and have a knack for finding the tiniest bugs that drive many crazy.
 
 The best way to find out all about me is [personal website](https://www.dougschallmoser.com/)
@@ -23,4 +18,3 @@ Fun fact:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
