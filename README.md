@@ -1,6 +1,6 @@
 ### Hello, I'm Doug.
 
-I'm a software developer focused on creating things that improves people's lives. Some technologies I enjoy working with include React.js and Rails. I take pride in problem-solving and have a knack for finding the tiniest bugs that drive many crazy. I believe simplicity and elegance produces the best code.
+I'm a software engineer focused on creating things that improves people's lives. Some technologies I enjoy working with include React.js and Rails. I take pride in problem-solving and have a knack for finding the tiniest bugs that drive many crazy. I believe simplicity and elegance produces the best code.
 
 I am currently working on adding additional features to [Trailblaze](https://github.com/dougschallmoser/trailblaze).
 
