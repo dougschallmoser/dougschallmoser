@@ -8,4 +8,4 @@ The best way to find out all about me is my [personal website](https://www.dougs
 
 I can also be reached through [LinkedIn](https://www.linkedin.com/in/doug-schallmoser/), [Email](mailto:dougschallmoser@gmail.com), [Blog](https://dougschallmoser.medium.com/), and [Instagram](https://www.instagram.com/illbehiking/).
 
-Fun Fact: I like to integrate my passion for the outdoors into code. And I think pair programming is fun!
+Fun Facts: I like to integrate my passion for the outdoors into code. I am a licensed Professional Engineer.
