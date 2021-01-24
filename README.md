@@ -8,4 +8,4 @@ The best way to find out all about me is my [portfolio site](https://www.dougsch
 
 I can also be reached through [LinkedIn](https://www.linkedin.com/in/doug-schallmoser/), [Email](mailto:dougschallmoser@gmail.com), [Blog](https://dougschallmoser.medium.com/), and [Instagram](https://www.instagram.com/illbehiking/).
 
-Fun Facts: I am a licensed Professional Engineer and I love the mountains!
+Fun Facts: I love hiking in the mountains!
