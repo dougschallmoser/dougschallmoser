@@ -1,6 +1,6 @@
 ### Hello, I'm Doug.
 
-I'm a software engineer focused on JavaScript and the front end. I take pride in problem-solving and have a knack for finding the tiniest bugs that drive many crazy. I like simplicity in life and code. 
+I'm a software engineer focused on frontend development. I take pride in problem-solving and have a knack for finding the tiniest bugs that drive many crazy. I like simplicity in life and code. 
 
 I am currently learning Node.js and how to write tests in React.
 
